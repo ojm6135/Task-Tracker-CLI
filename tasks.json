@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "description": "homework",
+    "status": "todo",
+    "createdAt": "2024-10-18T16:30:34.948201700",
+    "updatedAt": "2024-10-18T16:30:34.948201700"
+  },
+  {
+    "id": "2",
+    "description": "playing game",
+    "status": "done",
+    "createdAt": "2024-10-18T16:31:02.669132900",
+    "updatedAt": "2024-10-18T16:31:33.126887300"
+  },
+  {
+    "id": "3",
+    "description": "sleep",
+    "status": "in-progress",
+    "createdAt": "2024-10-18T16:31:14.931002",
+    "updatedAt": "2024-10-18T16:31:38.492555400"
+  }
+]
